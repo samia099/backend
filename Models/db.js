@@ -5,7 +5,8 @@ const mongoose = require("mongoose");
 mongoose
   .connect(process.env.MONGO_CONN, {
     serverSelectionTimeoutMS: 5000, // Timeout for server selection
-    socketTimeoutMS: 45000, // Socket inactivity timeout
+    socketTimeoutMS: 45000, 
+    dbName: "bdJobBox",// Socket inactivity timeout
   })
   .then(() => {
     console.log("MongoDB Connected Successfully");
