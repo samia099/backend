@@ -1,0 +1,439 @@
+[
+  {
+    "package_name": "Basic_Concert_Package",
+    "category": "Concert",
+    "carrt_Image": "https://i.ibb.co.com/R7hJvQm/Banner1.png",
+    "price": { "$numberInt": "70000" },
+    "features": [
+      "Stage Setup",
+      "Basic Sound System",
+      "Standard Lighting",
+      "Event Staff"
+    ],
+    "images": [
+      "https://i.ibb.co.com/J7Bq7Xy/1.png",
+      "https://i.ibb.co.com/k0gDvKC/2.png",
+      "https://i.ibb.co.com/VSP25Qm/3.png",
+      "https://i.ibb.co.com/wQ7mVWk/4.png"
+    ],
+    "photography_team_size": { "$numberInt": "1" },
+    "videography": false,
+    "duration_hours": { "$numberInt": "4" },
+    "expected_attendance": { "$numberInt": "150" },
+    "staff_team_size": { "$numberInt": "10" }
+  },
+  {
+    "category": "Conference",
+    "package_name": "Basic Conference Package",
+    "carrt_Image": "https://i.ibb.co.com/Gsyh2Ky/Conferance1.png",
+    "price": { "$numberInt": "75000" },
+    "features": [
+      "Venue Booking",
+      "Basic AV Setup",
+      "Event Coordination",
+      "Seating for 100"
+    ],
+    "images": [
+      "https://i.ibb.co.com/znnpzKp/1.png",
+      "https://i.ibb.co.com/hWhMrTq/2.png",
+      "https://i.ibb.co.com/BcMyJck/3.png",
+      "https://i.ibb.co.com/cgt5KkN/4.png"
+    ],
+    "photography_team_size": { "$numberInt": "1" },
+    "videography": false,
+    "duration_hours": { "$numberInt": "2" },
+    "expected_attendance": { "$numberInt": "30" },
+    "staff_team_size": { "$numberInt": "5" }
+  },
+  {
+    "package_name": "Basic_Wedding_Package",
+    "category": "Wedding",
+    "carrt_Image": "https://i.ibb.co.com/D814CQX/Weddings-Banner1.png",
+    "price": { "$numberInt": "80000" },
+    "features": [
+      "Venue Decoration",
+      "Basic Catering (100 guests)",
+      "Sound System",
+      "Event Photography"
+    ],
+    "images": [
+      "https://i.ibb.co.com/pPsD7w2/1.png",
+      "https://i.ibb.co.com/8rs4wP9/2.png",
+      "https://i.ibb.co.com/MpJwHPZ/3.png",
+      "https://i.ibb.co.com/cFtykXB/4.png"
+    ],
+    "photography_team_size": { "$numberInt": "2" },
+    "videography": false,
+    "duration_hours": { "$numberInt": "3" },
+    "expected_attendance": { "$numberInt": "20" },
+    "staff_team_size": { "$numberInt": "5" }
+  },
+  {
+    "package_name": "Premium_Concert_Package",
+    "category": "Concert",
+    "carrt_Image": "https://i.ibb.co.com/wLRrGfr/Banner2.png",
+    "price": { "$numberInt": "140000" },
+    "features": [
+      "Advanced Stage Setup",
+      "High-End Sound System",
+      "Advanced Lighting",
+      "Event Staff",
+      "VIP Area Setup",
+      "Backstage Support"
+    ],
+    "images": [
+      "https://i.ibb.co.com/bF4qsfq/5.png",
+      "https://i.ibb.co.com/cXT58St/6.png",
+      "https://i.ibb.co.com/DLwzR94/7.png",
+      "https://i.ibb.co.com/6PZkx91/8.png"
+    ],
+    "photography_team_size": { "$numberInt": "2" },
+    "videography": true,
+    "duration_hours": { "$numberInt": "5" },
+    "expected_attendance": { "$numberInt": "300" },
+    "staff_team_size": { "$numberInt": "15" }
+  },
+  {
+    "category": "Conference",
+    "package_name": "Premium Conference Package",
+    "carrt_Image": "https://i.ibb.co.com/Jj9thZd/Conferance2.png",
+    "price": { "$numberInt": "145000" },
+    "features": [
+      "Venue & AV Setup",
+      "Full Event Management",
+      "Catering for 150",
+      "Photography & Videography",
+      "Guest Speaker Setup"
+    ],
+    "images": [
+      "https://i.ibb.co.com/84RrjKC/5.png",
+      "https://i.ibb.co.com/8Mrb2d3/6.png",
+      "https://i.ibb.co.com/C04sp3P/7.png",
+      "https://i.ibb.co.com/c3gRJWc/8.png"
+    ],
+    "photography_team_size": { "$numberInt": "2" },
+    "videography": true,
+    "duration_hours": { "$numberInt": "4" },
+    "expected_attendance": { "$numberInt": "150" },
+    "staff_team_size": { "$numberInt": "10" }
+  },
+  {
+    "package_name": "Ultimate_Festival_Package",
+    "category": "Festival",
+    "carrt_Image": "https://i.ibb.co.com/jD3hTpr/Festivels-Banner3.png",
+    "price": { "$numberInt": "215000" },
+    "features": [
+      "Custom Stage Setup",
+      "High-End Sound & Lighting",
+      "Full Security Team",
+      "VIP Area Setup",
+      "Festival Promotion & Marketing",
+      "Full Event Management"
+    ],
+    "images": [
+      "https://i.ibb.co.com/p0r0QHg/9.png",
+      "https://i.ibb.co.com/RNdMXS1/10.png",
+      "https://i.ibb.co.com/bPnJt04/11.png",
+      "https://i.ibb.co.com/mR5Pzpr/12.png"
+    ],
+    "photography_team_size": { "$numberInt": "5" },
+    "videography": true,
+    "duration_hours": { "$numberInt": "8" },
+    "expected_attendance": { "$numberInt": "1000" },
+    "staff_team_size": { "$numberInt": "25" }
+  },
+  {
+    "package_name": "Premium_Wedding_Package",
+    "category": "Wedding",
+    "carrt_Image": "https://i.ibb.co.com/5B9zrG0/Weddings-Banner2.png",
+    "price": { "$numberInt": "140000" },
+    "features": [
+      "Luxury Venue Decoration",
+      "Premium Catering (200 guests)",
+      "Sound & Lighting",
+      "Event Photography & Videography",
+      "Live Band/DJ"
+    ],
+    "images": [
+      "https://i.ibb.co.com/0F3pzKf/5.png",
+      "https://i.ibb.co.com/dtDcykp/6.png",
+      "https://i.ibb.co.com/HPKn6S7/7.png",
+      "https://i.ibb.co.com/F4S1kpw/8.png"
+    ],
+    "photography_team_size": { "$numberInt": "3" },
+    "videography": true,
+    "duration_hours": { "$numberInt": "4" },
+    "expected_attendance": { "$numberInt": "50" },
+    "staff_team_size": { "$numberInt": "10" }
+  },
+  {
+    "package_name": "Premium_Birthday_Package",
+    "category": "Birthday",
+    "carrt_Image": "https://i.ibb.co.com/59mKdbt/Birthday-Banner2.png",
+    "price": { "$numberInt": "145000" },
+    "features": [
+      "Custom Venue Decoration",
+      "Theme-Based Cake",
+      "Games & Activities",
+      "2 Event Hosts",
+      "Photo Booth Setup"
+    ],
+    "images": [
+      "https://i.ibb.co.com/Qj5r0qV/5.png",
+      "https://i.ibb.co.com/Sv5KFC0/6.png",
+      "https://i.ibb.co.com/KmHPrVg/7.png",
+      "https://i.ibb.co.com/Qd0PHJp/8.png"
+    ],
+    "photography_team_size": { "$numberInt": "2" },
+    "videography": true,
+    "duration_hours": { "$numberInt": "3" },
+    "expected_attendance": { "$numberInt": "50" },
+    "staff_team_size": { "$numberInt": "8" }
+  },
+  {
+    "package_name": "Premium_Festival_Package",
+    "category": "Festival",
+    "carrt_Image": "https://i.ibb.co.com/tPyhdpD/Festivels-Banner2.png",
+    "price": { "$numberInt": "150000" },
+    "features": [
+      "Advanced Stage Setup",
+      "Professional Sound System",
+      "Security & VIP Area",
+      "Event Coordination",
+      "Festival Promotion"
+    ],
+    "images": [
+      "https://i.ibb.co.com/YW82ytV/5.png",
+      "https://i.ibb.co.com/QPGfxs1/6.png",
+      "https://i.ibb.co.com/N7B7LJB/7.png",
+      "https://i.ibb.co.com/yWWgNPZ/8.png"
+    ],
+    "photography_team_size": { "$numberInt": "3" },
+    "videography": true,
+    "duration_hours": { "$numberInt": "6" },
+    "expected_attendance": { "$numberInt": "400" },
+    "staff_team_size": { "$numberInt": "15" }
+  },
+  {
+    "package_name": "Ultimate_Wedding_Package",
+    "category": "Wedding",
+    "carrt_Image": "https://i.ibb.co.com/XSHzk9x/Weddings-Banner3.png",
+    "price": { "$numberInt": "215000" },
+    "features": [
+      "Exclusive Venue Decoration",
+      "Premium Catering (300 guests)",
+      "Professional Sound & Lighting System",
+      "Complete Photography & Videography Coverage",
+      "Live Band & DJ",
+      "Wedding Planner & Coordinator",
+      "Luxury Transportation Service",
+      "Custom Wedding Cake",
+      "VIP Lounge Area",
+      "Bridal Suite Access"
+    ],
+    "images": [
+      "https://i.ibb.co.com/g7m8g8g/9.png",
+      "https://i.ibb.co.com/6bbShKL/10.png",
+      "https://i.ibb.co.com/VQFG0cg/11.png",
+      "https://i.ibb.co.com/LxRMnKF/12.png"
+    ],
+    "photography_team_size": { "$numberInt": "4" },
+    "videography": true,
+    "duration_hours": { "$numberInt": "8" },
+    "expected_attendance": { "$numberInt": "300" },
+    "staff_team_size": { "$numberInt": "20" }
+  },
+  {
+    "category": "Conference",
+    "package_name": "Ultimate Conference Package",
+    "carrt_Image": "https://i.ibb.co.com/RgNzTr4/Conferance3.png",
+    "price": { "$numberInt": "210000" },
+    "features": [
+      "Premium Venue & AV Setup",
+      "Full Event Coordination",
+      "Catering for 300",
+      "Photography, Videography & Live Streaming",
+      "Guest Speaker & VIP Area"
+    ],
+    "images": [
+      "https://i.ibb.co.com/g7m8g8g/9.png",
+      "https://i.ibb.co.com/6bbShKL/10.png",
+      "https://i.ibb.co.com/VQFG0cg/11.png",
+      "https://i.ibb.co.com/LxRMnKF/12.png"
+    ],
+    "photography_team_size": { "$numberInt": "3" },
+    "videography": true,
+    "duration_hours": { "$numberInt": "6" },
+    "expected_attendance": { "$numberInt": "400" },
+    "staff_team_size": { "$numberInt": "15" }
+  },
+  {
+    "package_name": "Basic_Birthday_Package",
+    "category": "Birthday",
+    "carrt_Image": "https://i.ibb.co.com/qsryQcK/Birthday-Banner1.png",
+    "price": { "$numberInt": "75000" },
+    "features": [
+      "Venue Decoration",
+      "Birthday Cake",
+      "Balloon Setup",
+      "1 Event Host"
+    ],
+    "images": [
+      "https://i.ibb.co.com/p18GDpq/1.png",
+      "https://i.ibb.co.com/QdG29jC/2.png",
+      "https://i.ibb.co.com/WnMznJv/3.png",
+      "https://i.ibb.co.com/6n9dnj3/4.png"
+    ],
+    "photography_team_size": { "$numberInt": "1" },
+    "videography": false,
+    "duration_hours": { "$numberInt": "2" },
+    "expected_attendance": { "$numberInt": "30" },
+    "staff_team_size": { "$numberInt": "5" }
+  },
+  {
+    "category": "NewYearParty",
+    "package_name": "Ultimate New Year Package",
+    "carrt_Image": "https://i.ibb.co.com/FwSbWTq/NewYear3.png",
+    "price": { "$numberInt": "210000" },
+    "features": [
+      "Luxury Venue Decoration",
+      "Top-Tier Sound & Lighting",
+      "Live Entertainment & DJ",
+      "Fireworks Display",
+      "VIP Area with Catering"
+    ],
+    "images": [
+      "https://i.ibb.co.com/dQT4CJf/9.png",
+      "https://i.ibb.co.com/X3vccxq/10.png",
+      "https://i.ibb.co.com/n3QpfJQ/11.png",
+      "https://i.ibb.co.com/RjZTnwx/12.png"
+    ],
+    "photography_team_size": { "$numberInt": "3" },
+    "videography": true,
+    "duration_hours": { "$numberInt": "8" },
+    "expected_attendance": { "$numberInt": "1000" },
+    "staff_team_size": { "$numberInt": "25" }
+  },
+  {
+    "package_name": "Ultimate_Concert_Package",
+    "category": "Concert",
+    "carrt_Image": "https://i.ibb.co.com/VNgKgRg/Banner3.png",
+    "price": { "$numberInt": "220000" },
+    "features": [
+      "Custom Stage Setup",
+      "Top-Tier Sound System",
+      "Professional Lighting Show",
+      "Full Event Management",
+      "VIP Area & Hospitality",
+      "Backstage Support & Security"
+    ],
+    "images": [
+      "https://i.ibb.co.com/X4LzW8F/9.png",
+      "https://i.ibb.co.com/cQYYLCq/10.png",
+      "https://i.ibb.co.com/rfBqJ51/11.png",
+      "https://i.ibb.co.com/Hxk8TLg/12.png"
+    ],
+    "photography_team_size": { "$numberInt": "3" },
+    "videography": true,
+    "duration_hours": { "$numberInt": "6" },
+    "expected_attendance": { "$numberInt": "500" },
+    "staff_team_size": { "$numberInt": "20" }
+  },
+  {
+    "package_name": "Basic_Festival_Package",
+    "category": "Festival",
+    "carrt_Image": "https://i.ibb.co.com/d2HW62D/Festivels-Banner1.png",
+    "price": { "$numberInt": "70000" },
+    "features": [
+      "Stage Setup",
+      "Basic Sound System",
+      "Security Personnel",
+      "Event Coordination"
+    ],
+    "images": [
+      "https://i.ibb.co.com/sbQYvqH/1.png",
+      "https://i.ibb.co.com/tpswkhT/2.png",
+      "https://i.ibb.co.com/nbv1mK4/3.png",
+      "https://i.ibb.co.com/ZfCcDpd/4.png"
+    ],
+    "photography_team_size": { "$numberInt": "2" },
+    "videography": false,
+    "duration_hours": { "$numberInt": "4" },
+    "expected_attendance": { "$numberInt": "200" },
+    "staff_team_size": { "$numberInt": "12" }
+  },
+  {
+    "category": "NewYearParty",
+    "package_name": "Basic New Year Package",
+    "carrt_Image": "https://i.ibb.co.com/27Wvgjs/NewYear1.png",
+    "price": { "$numberInt": "80000" },
+    "features": [
+      "Basic Venue Decoration",
+      "Sound System",
+      "Countdown Timer",
+      "Fireworks"
+    ],
+    "images": [
+      "https://i.ibb.co.com/C28dSbF/1.png",
+      "https://i.ibb.co.com/MMR1x96/2.png",
+      "https://i.ibb.co.com/kghDpnT/3.png",
+      "https://i.ibb.co.com/pRJ6rY6/4.png"
+    ],
+    "photography_team_size": { "$numberInt": "1" },
+    "videography": false,
+    "duration_hours": { "$numberInt": "2" },
+    "expected_attendance": { "$numberInt": "30" },
+    "staff_team_size": { "$numberInt": "5" }
+  },
+  {
+    "category": "NewYearParty",
+    "package_name": "Premium New Year Package",
+    "carrt_Image": "https://i.ibb.co.com/KxZT8dv/NewYear2.png",
+    "price": { "$numberInt": "150000" },
+    "features": [
+      "Enhanced Venue Decoration",
+      "Professional Sound System",
+      "Advanced Lighting Setup",
+      "Live DJ Performance",
+      "Countdown Experience",
+      "Premium Fireworks Display",
+      "Photo Booth Setup"
+    ],
+    "images": [
+      "https://i.ibb.co.com/YW82ytV/5.png",
+      "https://i.ibb.co.com/QPGfxs1/6.png",
+      "https://i.ibb.co.com/N7B7LJB/7.png",
+      "https://i.ibb.co.com/yWWgNPZ/8.png"
+    ],
+    "photography_team_size": { "$numberInt": "2" },
+    "videography": true,
+    "duration_hours": { "$numberInt": "5" },
+    "expected_attendance": { "$numberInt": "200" },
+    "staff_team_size": { "$numberInt": "15" }
+  },
+  {
+    "package_name": "Ultimate_Birthday_Package",
+    "category": "Birthday",
+    "carrt_Image": "https://i.ibb.co.com/HrYJT9f/Birthday-Banner3.png",
+    "price": { "$numberInt": "220000" },
+    "features": [
+      "Themed Party Setup",
+      "Personalized Cake",
+      "Entertainment (Magician/Clown)",
+      "Photo Booth with Photographer",
+      "3 Event Hosts",
+      "Catering Service"
+    ],
+    "images": [
+      "https://i.ibb.co.com/6vJVKf0/9.png",
+      "https://i.ibb.co.com/0ysP3cB/10.png",
+      "https://i.ibb.co.com/fd1H4QK/11.png",
+      "https://i.ibb.co.com/F3M9VV3/12.png"
+    ],
+    "photography_team_size": { "$numberInt": "3" },
+    "videography": true,
+    "duration_hours": { "$numberInt": "4" },
+    "expected_attendance": { "$numberInt": "100" },
+    "staff_team_size": { "$numberInt": "10" }
+  }
+]
