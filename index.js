@@ -21,7 +21,7 @@ app.get("/", (req, res) => {
 app.use(bodyParser.json());
 app.use(
   cors({
-    origin: ["http://localhost:5173", "https://bdjobboxe.netlify.app"],
+    origin: ["http://localhost:5173", "https://bdjobbox.netlify.app"],
     credentials: true,
   })
 );
